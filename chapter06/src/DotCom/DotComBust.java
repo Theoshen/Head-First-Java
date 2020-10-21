@@ -1,9 +1,11 @@
+package DotCom;
+
 import java.util.ArrayList;
 
 /**
  * @author chensihua
  * @version 1.0.0
- * @ClassName DotComBust.java
+ * @ClassName DotCom.DotComBust.java
  * @email theoshen@foxmail.com
  * @Description TODO
  * @createTime 2020年10月16日 11:38:00

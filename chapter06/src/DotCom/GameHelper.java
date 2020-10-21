@@ -1,3 +1,5 @@
+package DotCom;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -6,7 +8,7 @@ import java.util.ArrayList;
 /**
  * @author chensihua
  * @version 1.0.0
- * @ClassName GameHelper.java
+ * @ClassName DotCom.GameHelper.java
  * @email theoshen@foxmail.com
  * @Description TODO
  * @createTime 2020年09月29日 10:50:00
